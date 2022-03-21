@@ -1,0 +1,8 @@
+# ninja log v5
+38	838	6695264688871497	CMakeFiles/FigurasPOO.dir/Circulo.cpp.obj	6fccb2f70c612718
+42	836	6695264688828522	CMakeFiles/FigurasPOO.dir/Rectangulo.cpp.obj	33a0b25bcafa1eca
+11	839	6695264688876503	CMakeFiles/FigurasPOO.dir/Cuadrado.cpp.obj	d440fa0efcd31229
+3	335	6695246399394274	CMakeFiles/FigurasPOO.dir/Figura.cpp.obj	7ad6e0ae79eec300
+2	442	6695250775988420	CMakeFiles/FigurasPOO.dir/View.cpp.obj	bb0b0da0b6b72cc3
+839	1201	6695264692493795	FigurasPOO.exe	839a333ae8f05f19
+3	748	6695248765075268	CMakeFiles/FigurasPOO.dir/main.cpp.obj	55c30144db978906

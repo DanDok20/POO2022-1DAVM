@@ -1,0 +1,3 @@
+C:/Users/flore/OneDrive/Escritorio/Nueva carpeta/POO2022-1DAVM/FigurasPOO/cmake-build-debug/CMakeFiles/FigurasPOO.dir
+C:/Users/flore/OneDrive/Escritorio/Nueva carpeta/POO2022-1DAVM/FigurasPOO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/flore/OneDrive/Escritorio/Nueva carpeta/POO2022-1DAVM/FigurasPOO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
