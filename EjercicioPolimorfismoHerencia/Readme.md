@@ -1,6 +1,6 @@
-#Ejercicio Polimorfismo Herencia
+# Ejercicio Polimorfismo Herencia
 
-##Integrantes
+## Integrantes
 
 * Daniel Andres Vasquez 
 * Laura Isabella Rojas 
